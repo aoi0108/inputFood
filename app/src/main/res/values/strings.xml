@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">foodremaker</string>
+    <string name="description_input">"Type the ingredients name and its expiration date! "</string>
+    <string name="add">Add</string>
+    <string name="food_in_refrigerator">Food in Refrigerator</string>
+    <string name="what_cook">What should we cook today?</string>
+    <string name="title_text">Food Remaker</string>
+    <string name="suggestion_text">Today\'s Suggestion</string>
+    <string name="omlet_tet">Omlet Rice</string>
+</resources>
